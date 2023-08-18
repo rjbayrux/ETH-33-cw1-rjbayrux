@@ -82,7 +82,7 @@ include'slider.php';
     <div class="container p-3">
         <div class="row">
             <div class="col-md-6 mr-1 aboutImg">
-                <img src="images/jatra4.jpg" alt="Picture of Jatra in Nepal">
+                <img src="images/jatra20.jpg" alt="Picture of Jatra in Nepal">
             </div>
             <div class="col-md-5 text-justify desc">
                 <h1>About Jatra</h1>

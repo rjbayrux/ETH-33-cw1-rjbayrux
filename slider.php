@@ -14,7 +14,7 @@
     }
     .slider{
       width: 100%;
-      height: 500px;
+      height: 800px;
       position: relative;
       margin: 0 auto;
       overflow:hidden;
@@ -22,7 +22,7 @@
     }
     .img{
       width: 100%;
-      height: 600px;
+      height: 1000px;
       position: absolute;
       opacity: 0;
       transition: 2s;
@@ -54,9 +54,9 @@
 <div class="wrapSlide">
         <img src="images/prev.png" class="prev" alt="Prev">  
     <div class="slider">
-        <img src="images/jatra1.jpg " alt="imageof" class="active img">
-        <img src="images/jatra2.jpg " alt="imageof" class="img">
-        <img src="images/jatra3.jpg " alt="imageof" class="img">
+        <img src="images/jatra4.jpg " alt="imageof" class="active img">
+        <img src="images/jatra1.jpg " alt="imageof" class="img">
+        <img src="images/jatra90.jpg " alt="imageof" class="img">
     </div>
         <img src="images/next.png" class="next" alt="Next">
 </div>

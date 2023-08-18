@@ -70,56 +70,56 @@
     <div class="gallery">
         <!-- Row 1 -->
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 1">
-            <div class="gallery-description">Description for Image 1</div>
+            <img src="images/jatra10.jpg" alt="Image 1">
+            <div class="gallery-description">Pahachare festival</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 2">
-            <div class="gallery-description">Description for Image 2</div>
+            <img src="images/jatra5.jpg" alt="Image 2">
+            <div class="gallery-description">Sindure jatra at Nuwakot</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 3">
-            <div class="gallery-description">Description for Image 3</div>
+            <img src="images/jatra22.jpg" alt="Image 3">
+            <div class="gallery-description">Vintage image of Taktuke jatra</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 4">
-            <div class="gallery-description">Description for Image 4</div>
+            <img src="images/jatra12.jpg" alt="Image 4">
+            <div class="gallery-description">NeGha jatra which literally means SaatGaule jatra</div>
         </div>
         
         <!-- Row 2 -->
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 1">
-            <div class="gallery-description">Description for Image 1</div>
+            <img src="images/jatra16.jpg" alt="Image 1">
+            <div class="gallery-description">Thimi Biska: jatra</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 2">
-            <div class="gallery-description">Description for Image 2</div>
+            <img src="images/jatra20.jpg" alt="Image 2">
+            <div class="gallery-description">Mi Pwa lakhey of Patan</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 3">
-            <div class="gallery-description">Description for Image 3</div>
+            <img src="images/jatra21.jpg" alt="Image 3">
+            <div class="gallery-description">Devotees surrounding temple during Baagbhairav jatra</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 4">
-            <div class="gallery-description">Description for Image 4</div>
+            <img src="images/jatra26.jpg" alt="Image 4">
+            <div class="gallery-description">Ghode Jatra</div>
         </div>
 
         <!-- Row 3 -->
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 1">
-            <div class="gallery-description">Description for Image 1</div>
+            <img src="images/jatra18.jpg" alt="Image 1">
+            <div class="gallery-description">12 Bhairav Jatra from Pokhara</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 2">
-            <div class="gallery-description">Description for Image 2</div>
+            <img src="images/jatra15.jpg" alt="Image 2">
+            <div class="gallery-description">Bajrayoging Jatra_Sankhu</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 3">
-            <div class="gallery-description">Description for Image 3</div>
+            <img src="images/jatra30.jpg" alt="Image 3">
+            <div class="gallery-description">Shree Kumari Chariot during Indrajatra</div>
         </div>
         <div class="gallery-item">
-            <img src="images/jatra1.jpg" alt="Image 4">
-            <div class="gallery-description">Description for Image 4</div>
+            <img src="images/jatra28.jpg" alt="Image 4">
+            <div class="gallery-description">GaiJatra</div>
         </div>
     </div>
     <?php include'footer.php'?>

@@ -51,26 +51,26 @@ main {
 
     <main>
         <section class="festival" id="indra-jatra">
-            <img src="images/jatra1.jpg" alt="Indra Jatra Celebration">
+            <img src="images/jatra25.jpg" alt="Indra Jatra Celebration">
             <h2>Indra Jatra</h2>
             <p>
                 Celebrated by both Hindus and Buddhists in Kathmandu, Indra Jatra is a tribute to Lord Indra for the rains and the harvest. It is marked by a variety of events like lingo erection, processions, dances and more.
-            </p>
+                Indrajatra lso known as Yenya, celebrates the story of a deity who descended from the heavens, dressed as a commoner, with the intent of pilfering flowers.</p>
         </section>
 
         <section class="festival" id="bisket-jatra">
-            <img src="images/jatra1.jpg" alt="Bisket Jatra Celebration">
+            <img src="images/jatra11.jpg" alt="Bisket Jatra Celebration">
             <h2>Bisket Jatra</h2>
             <p>
-                Bisket Jatra marks Nepalese New Year and is celebrated with much enthusiasm in Bhaktapur and other parts of the Kathmandu Valley. The most well-known event during this festival is the chariot procession.
+                Bisket Jatra marks Nepalese New Year and is celebrated with much enthusiasm in Bhaktapur and other parts of the Kathmandu Valley. The most well-known event during this festival is the chariot procession. Legend has it that this celebration is the "festival after the death of the serpent"
             </p>
         </section>
 
         <section class="festival" id="machindranath-jatra">
-            <img src="images/jatra1.jpg" alt="Rato Machindranath Jatra Celebration">
+            <img src="images/jatra27.jpg" alt="Rato Machindranath Jatra Celebration">
             <h2>Rato Machindranath Jatra</h2>
             <p>
-                This is a chariot festival honoring Lord Machindranath. It's one of the oldest and longest festivals celebrated in the Kathmandu Valley. The chariot is paraded around the city of Patan for several months.
+                This is a chariot festival honoring Lord Machindranath. It's one of the oldest and longest festivals celebrated in the Kathmandu Valley. The chariot is paraded around the city of Patan for several months. According to legends, Rato Machindranath Jatra is a celebration which once rescued Kathmandu Valley of severe drought.
             </p>
         </section>
     </main>
